@@ -1,0 +1,17 @@
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\bin\Debug\net6.0-windows\winAppCompraInteractiva.exe
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\bin\Debug\net6.0-windows\winAppCompraInteractiva.deps.json
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\bin\Debug\net6.0-windows\winAppCompraInteractiva.runtimeconfig.json
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\bin\Debug\net6.0-windows\winAppCompraInteractiva.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\bin\Debug\net6.0-windows\winAppCompraInteractiva.pdb
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.Form1.resources
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.csproj.GenerateResource.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.AssemblyInfo.cs
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\refint\winAppCompraInteractiva.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.pdb
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\winAppCompraInteractiva.genruntimeconfig.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\winAppCompraInteractiva\winAppCompraInteractiva\obj\Debug\net6.0-windows\ref\winAppCompraInteractiva.dll
